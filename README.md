@@ -1,4 +1,4 @@
-# My Second Test Run
+# practiceRun2
 
 ## Getting familiar with the commands
 
