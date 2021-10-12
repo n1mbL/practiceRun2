@@ -1,3 +1,5 @@
 # practiceRun2
 
-Making a change here
+## Getting familiar with the commands
+
+Doing another test run before exams
